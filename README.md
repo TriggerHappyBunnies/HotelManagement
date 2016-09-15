@@ -3,7 +3,7 @@
 
 ## About
 Project done in the year 2013. Done using Java programming
-language without graphics. Hotel in programme under the name QUARTZ RoYale(_no copyright infringement intended_).
+language without graphics. Project not done in Github or neither by using functions(I know code would have been smaller :( but there was technical problems at the time) Hotel in programme under the name QUARTZ RoYale(_no copyright infringement intended_).
 
 ## Contents 
 * Food ordering
